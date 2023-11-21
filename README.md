@@ -13,8 +13,6 @@ Weapons of choice:
 
 💻 SQL
 
-📍 Tableau
-
 Coursework includes: Time Series Analysis, Machine Learning, Applied Statistical Methods, Linear Algebra, Methods of Data Analysis, Probability, Data Models and Inference.
 
 Outside of work, I am a passionate yoga teacher. I was an opera singer in college and love all things classical music and musical theatre! If that isn't nerdy enough, I'm a not-so-subtle trekkie 🖖🏼
