@@ -14,7 +14,7 @@ Research in Local News at UNC Chapel Hill
 Specialized coursework in Time Series Analysis, Machine Learning, Applied Statistical Methods, Linear Algebra, Methods of Data Analysis, Probability, Data Models and Inference.
 
 
-🛠**Technical Toolbox:**
+🛠 **Technical Toolbox:**
 R, Python, SQL
 
 
