@@ -1,21 +1,41 @@
-I am a data scientist who's currently: 
+🎓 Current Academic Pursuits:
 
-💡 Studying for my MS in Foundations of Data Science at NC State and 🗞 Researching local news at UNC Chapel Hill
+MS in Foundations of Data Science at NC State
+Research in Local News at UNC Chapel Hill
 
-I'm passionate about Ethical AI and responsible tech. I am an All Tech Is Human Mentee in Ethical AI and Center for Information, Technology and Public Life (CITAP) Affiliate.
 
-As a former journalist, I apply my knack for out-of-the-box thinking and storytelling skills to conducting innovative research projects that turn patterns into insights.
-Weapons of choice:
+🔍 Areas of Passion:
 
-📈 R
+Ethical AI & Responsible Technology
+Mentee in Ethical AI at All Tech Is Human
+CITAP Affiliate at the Center for Information, Technology and Public Life
+📚 Educational Background:
 
-🐍 Python
 
-💻 SQL
+Specialized coursework in Time Series Analysis, Machine Learning, Applied Statistical Methods, Linear Algebra, Methods of Data Analysis, Probability, Data Models and Inference
+🛠 Technical Toolbox:
 
-Coursework includes: Time Series Analysis, Machine Learning, Applied Statistical Methods, Linear Algebra, Methods of Data Analysis, Probability, Data Models and Inference.
+R
+Python
+SQL
 
-Outside of work, I am a passionate yoga teacher. I was an opera singer in college and love all things classical music and musical theatre! If that isn't nerdy enough, I'm a not-so-subtle trekkie 🖖🏼
+
+📊 Featured Projects:
+
+Burnout in U.S. Journalists: Analyzing patterns of burnout using advanced statistical methods.
+Text Analysis: Leveraging NLP techniques to derive meaningful insights from text data.
+Time Series Forecasting: Predicting future trends based on historical energy data.
+Box Office Prediction: Utilizing regression to forecast movie success.
+
+
+As a former journalist, I blend my storytelling prowess and analytical acumen to conduct groundbreaking research projects. My focus is on transforming complex patterns into insightful narratives.
+
+
+📌 Beyond Data Science:
+
+Certified Yoga Teacher: Bringing balance and mindfulness to my life and others.
+Classical Music Enthusiast & Former Opera Singer: Passionate about opera and musical theatre.
+
 
 <!--
 **ecthompsoncodes/ecthompsoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
