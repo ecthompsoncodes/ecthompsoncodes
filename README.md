@@ -1,7 +1,6 @@
 I am a data scientist who's currently: 
-💡 Studying for my MS in Foundations of Data Science at NC State
 
-🗞 Researching local news at UNC Chapel Hill
+💡 Studying for my MS in Foundations of Data Science at NC State and 🗞 Researching local news at UNC Chapel Hill
 
 I'm passionate about Ethical AI and responsible tech. I am an All Tech Is Human Mentee in Ethical AI and Center for Information, Technology and Public Life (CITAP) Affiliate.
 
