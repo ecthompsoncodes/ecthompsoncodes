@@ -1,4 +1,4 @@
-## Elizabeth Thompson -- Data Scientist
+## Elizabeth Thompson — Data Scientist
 
 
 
