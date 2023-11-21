@@ -1,40 +1,32 @@
-🎓 Current Academic Pursuits:
+## Elizabeth Thompson -- Data Scientist
+
+
+
+🎓 **Current Academic Pursuits:**
 
 MS in Foundations of Data Science at NC State
+
 Research in Local News at UNC Chapel Hill
 
 
-🔍 Areas of Passion:
+📚 **Educational Background:**
 
-Ethical AI & Responsible Technology
-Mentee in Ethical AI at All Tech Is Human
-CITAP Affiliate at the Center for Information, Technology and Public Life
-📚 Educational Background:
+Specialized coursework in Time Series Analysis, Machine Learning, Applied Statistical Methods, Linear Algebra, Methods of Data Analysis, Probability, Data Models and Inference.
 
 
-Specialized coursework in Time Series Analysis, Machine Learning, Applied Statistical Methods, Linear Algebra, Methods of Data Analysis, Probability, Data Models and Inference
-🛠 Technical Toolbox:
-
-R
-Python
-SQL
+🛠**Technical Toolbox:**
+R, Python, SQL
 
 
-📊 Featured Projects:
+📊 **Featured Projects:**
 
-Burnout in U.S. Journalists: Analyzing patterns of burnout using advanced statistical methods.
-Text Analysis: Leveraging NLP techniques to derive meaningful insights from text data.
-Time Series Forecasting: Predicting future trends based on historical energy data.
-Box Office Prediction: Utilizing regression to forecast movie success.
+[Burnout in U.S. Journalists](https://github.com/ecthompsoncodes/journalism-burnout): Scraping twitter data using the API. Analysis using statistical inference. Read the [report](https://www.cislm.org/research/burnout-report/).
 
 
-As a former journalist, I blend my storytelling prowess and analytical acumen to conduct groundbreaking research projects. My focus is on transforming complex patterns into insightful narratives.
+[Text Analysis](https://github.com/ecthompsoncodes/Text-Analysis): Leveraging NLP techniques to derive meaningful insights from text data.
 
 
-📌 Beyond Data Science:
-
-Certified Yoga Teacher: Bringing balance and mindfulness to my life and others.
-Classical Music Enthusiast & Former Opera Singer: Passionate about opera and musical theatre.
+[Time Series Forecasting](https://github.com/ecthompsoncodes/Energy-Forecasting): Predicting future trends based on historical energy data.
 
 
 <!--
