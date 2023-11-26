@@ -2,12 +2,11 @@
 
 
 
-🎓 **Current Academic Pursuits:**
+👩🏼‍💻 **About Me:**
 
-MS in Foundations of Data Science at NC State
+I am a data scientist with more than two years of experience in data analysis and data science. I am currently studying for my MS in Foundations of Data Science at NC State and researching local news at UNC-Chapel Hill.
 
-Research in Local News at UNC Chapel Hill
-
+As a full-time researcher and data analyst, I regularly perform regression analysis, text analysis and data mining — among other data science techniques. As a master's student, I am always growing my data science toolbox, whether it be time series analysis or machine learning techniques, such as deep learning or decision trees. I also consult on a variety of data science projects, ranging from data visualization to data analysis.
 
 📚 **Educational Background:**
 
