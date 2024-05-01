@@ -19,7 +19,10 @@ R, Python, SQL
 
 📊 **Featured Projects:**
 
-[Burnout in U.S. Journalists](https://github.com/ecthompsoncodes/journalism-burnout): Scraping twitter data using the API. Analysis using statistical inference. Read the [report](https://www.cislm.org/research/burnout-report/).
+[Trustworthy AI for Epidemiology Applications](https://github.com/ecthompsoncodes/FDS-Epi-Project)): Machine learning project in collaboration with Sandia National Labs aimed at predicting COVID-19 hotspots during the early stages of the pandemic. Read the report
+[Trustworthy_AI_for_Epidemiology_Applications (1).pdf](https://github.com/ecthompsoncodes/ecthompsoncodes/files/15179460/Trustworthy_AI_for_Epidemiology_Applications.1.pdf)
+
+[Burnout in U.S. Journalists](https://github.com/ecthompsoncodes/journalism-burnout): Scraping Twitter data using the API. Analysis using statistical inference. Read the [report](https://www.cislm.org/research/burnout-report/).
 
 
 [Text Analysis](https://github.com/ecthompsoncodes/Text-Analysis): Leveraging NLP techniques to derive meaningful insights from text data.
