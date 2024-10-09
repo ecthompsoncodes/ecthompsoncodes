@@ -4,13 +4,7 @@
 
 👩🏼‍💻 **About Me:**
 
-I am a data scientist with more than three years of experience in data analysis and data science. I am currently studying for my MS in Foundations of Data Science at NC State.
-
-At Yum! Brands, I also improved the company’s forecasting models by applying innovative approaches to working with models with little or no data. I also worked on exciting new AI initiatives, building multi-agent workforces using Large Language Models and performing prompt engineering. 
-
-As a researcher at UNC Chapel Hill, I pioneered industry research on burnout and working conditions that was cited at national conferences and appeared in media, such as NPR and the Poynter Institute. In my research, I regularly performed regression analysis, text analysis and data mining — among other data science techniques.
- 
-I am always growing my data science toolbox, whether it be time series analysis or machine learning techniques, such as deep learning or decision trees. I also consult on a variety of data science projects, ranging from data visualization to data analysis to AI engineering.
+I am a data scientist based in the San Francisco Bay Area and a master's student in Foundations of Data Science at North Carolina State University.
 
 📚 **Educational Background:**
 
