@@ -24,8 +24,9 @@ Python (3+ years), R (4+ years), SQL (4+ years), Snowflake, Git, LATEX.
 
 [Time Series Forecasting](https://github.com/ecthompsoncodes/Energy-Forecasting): Predicting future trends based on historical energy data.
 
-
-<!--
+📫 **Contact Me:**
+https://www.linkedin.com/in/ecthompsoncodes/
+<!-- https://www.linkedin.com/in/ecthompsoncodes/
 **ecthompsoncodes/ecthompsoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
